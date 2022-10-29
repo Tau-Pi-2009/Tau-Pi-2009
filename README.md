@@ -1,5 +1,3 @@
->WELL HI THERE!!!\
-My Name Is TauPi (You might know me on MPPClone, or Multiplayerpiano.)\
-I am still learning JavaScript.\
-Pronouns: `he`/`him`/`his`\
-A favorite thing about me is that I love piano.
+`Hello!`
+I am TauPi, you might know me on some sites like MPP.\
+![TauPi's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tau-Pi-2009)
